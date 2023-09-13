@@ -1,0 +1,16 @@
+propiedad{
+    venta: bool ; //venta o renta
+    typo:  // casa o departamento
+    ubicacion: norte, centro, sur, valle ;
+    titulo : "";
+    precio : "";
+    garge : "";
+    caracteristicas{
+        
+    }
+}
+
+
+requerimientos{
+
+}
